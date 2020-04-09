@@ -2,5 +2,9 @@ body{
     font-family: 'Comic Neue', cursive;
 }
 h1{
+    color: orangered;
     font-size: 50px;
+}
+.name-highlight{
+    color: orange;
 }
