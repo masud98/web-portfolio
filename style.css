@@ -1,5 +1,6 @@
 body{
     font-family: 'Comic Neue', cursive;
+    margin: 0;
 }
 h1{
         font-size: 50px;
@@ -15,4 +16,34 @@ h1{
 }
 .half-width img{
     width: 100%;
+}
+.top-banner{
+    
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: powderblue;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+}
+.half-width2{
+    width: 40%;
+    float: right;
+    margin: 2%;
+    padding: ;
+}
+.half-width2 img{
+    width: 100%;
+}
+.link-button2{
+    text-decoration: none;
+    
+    color: powderblue;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
 }
